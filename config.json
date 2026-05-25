@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsave",
+        "uuid": 3285472,
+        "checksum": "uqqml"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
